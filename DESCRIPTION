@@ -1,0 +1,24 @@
+Package: triangulR
+Type: Package
+Title: Load, Project and Analyse General Insurance Data
+Version: 0.01.0
+Author: c(person("Edward", "Roche",
+    role=c("aut", "cre"),
+    email="ed.roche@yahoo.co.uk"),
+    c(person("Eoin", "Ó Baoighill",
+    role=c("aut", "cre"),
+    email="eoinobaoighill@gmail.com")
+Maintainer: Edward Roche <ed.roche@yahoo.co.uk>
+Description: Creates a Database of Actuarial Data
+License: ?????
+Encoding: UTF-8
+LazyData: true
+Depends:
+    data.table,
+    RGtk2,
+    ggplot2,
+    RGtk2,
+    gWidgets2,
+    R.utils
+URL: https://triangulRsolutions.co.uk
+RoxygenNote: 5.0.1
